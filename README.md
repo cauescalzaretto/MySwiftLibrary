@@ -12,5 +12,7 @@
  - [SegmentedControl](https://github.com/cauescalzaretto/Swift_Controls_Basic_SegmentedControl)
  - [UITextView](https://github.com/cauescalzaretto/Swift_Controls_Basic_UITextView)
  - [UITextField](https://github.com/cauescalzaretto/Swift_Controls_Basic_UITextField)
+ - [UIToolbar](https://github.com/cauescalzaretto/Swift_Controls_Basic_UIToolbar) 
+ 
  
 
