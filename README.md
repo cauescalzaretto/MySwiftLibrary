@@ -1,9 +1,21 @@
 # My Swift Library
-#### Esta biblioteca de consulta da linguagem Swift 3.0, tem como objetivo auxiliar de forma rápida relembrar conceitos básicos e complexos estudados anteriormente.
+#### Esta biblioteca de consulta da linguagem Swift 4.0, tem como objetivo auxiliar de forma rápida relembrar conceitos básicos e complexos estudados anteriormente.
 
 #### 
 
 > Muitas vezes relembrar ajuda a encontrar soluções simples para problemas complexos !
+
+**## Fundamentos**
+
+ - [Fundamentos I](https://github.com/cauescalzaretto/Swift_Fundamentals_I)
+ - [Fundamentos II](https://github.com/cauescalzaretto/Swift_Fundamentals_II)
+ - [Tuplas, Arrays e Dicionários](https://github.com/cauescalzaretto/Swift_Fundamentals_Tuples_Arrays_Dictionarys)
+ - [Estruturas Condicionais](https://github.com/cauescalzaretto/Swift_Fundamentals_Condicionals)
+ - [Controle de Fluxo](https://github.com/cauescalzaretto/Swift_Fundamentals_ControlFlow)
+ - [Funções](https://github.com/cauescalzaretto/Swift_Fundamentals_Functions) 
+ - [Closures](https://github.com/cauescalzaretto/Swift_Fundamentals_Closures)
+ - [Classes](https://github.com/cauescalzaretto/Swift_Fundamentals_Classes)
+
 
 **## Controles Básicos**
 
