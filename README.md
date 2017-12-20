@@ -1,6 +1,9 @@
 # My Swift Library
 #### Esta biblioteca de consulta da linguagem Swift 4.0, tem como objetivo auxiliar de forma rápida relembrar conceitos básicos e complexos estudados anteriormente.
 
+Veja também o meu GitBook:
+https://www.gitbook.com/@cauescalzaretto
+
 #### 
 
 > Muitas vezes relembrar ajuda a encontrar soluções simples para problemas complexos !
